@@ -1,4 +1,5 @@
-# Shelf Shock Score: Public Compliance Risk Index
+# Shelf Shock Score: Public Compliance Risk Index [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 
 A public-facing cannabis compliance risk score created by Boula’s Bud Bar, designed to help operators, analysts, and regulators track how legislation impacts real-world shelf risk.
 
