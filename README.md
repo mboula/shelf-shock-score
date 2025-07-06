@@ -9,8 +9,8 @@ Shelf Shock Score™ is a color-coded indicator that estimates the % of cannabis
 This project is licensed under **CC BY-NC 4.0**  
 You are free to share and adapt with attribution. Commercial use is not allowed without permission.
 
-Created by **Boula’s Bud Bar, 2025**  
-[Substack](https://boulasbudbar.substack.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+Created by **Michelle Boula, 2025**  
+[Substack](https://boulasbudbar.substack.com) | [LinkedIn](https://linkedin.com/in/emboula)
 
 ## Usage
 Use the score in dashboards, commentary, and reports – with credit.  
